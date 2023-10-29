@@ -8,7 +8,7 @@
         }
 
         p:nth-child(2) {
-            color: initial;
+            color: black;
         }
 
         p:last-child {
